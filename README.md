@@ -1,0 +1,7 @@
+general mobile g312 cihaz ağacı
+general mobile g312 device tree
+SHA_256 hashları
+cfc18e789f107750e9c7dce8420590170cc82596a13bcbad2cc3d2e62aa58ae9  GENERAL_MOBİLE_G312_DEVİCETREE.zip
+944ba839159ea2442645d8fc6e194771be082cb94a109eee2b8949e229e80fdf  GENERAL_MOBİLE_G312_DEVİCETREE.tar.gz
+944ba839159ea2442645d8fc6e194771be082cb94a109eee2b8949e229e80fdf  GENERAL_MOBİLE_G312_DEVİCETREE.tar.gz
+twrpdtgen ile oluşturulmuştur
